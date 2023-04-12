@@ -1,5 +1,11 @@
 # @appzic/astro-reset-css
 
+## 1.1.0
+
+### Minor Changes
+
+- Make with type declarations
+
 ## 1.0.3
 
 ### Patch Changes
