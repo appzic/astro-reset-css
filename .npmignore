@@ -2,7 +2,7 @@
 *
 
 # include these:
-!index.js
+!index.ts
 !ResetCSS.astro
 !styles.css
 !LICENSE

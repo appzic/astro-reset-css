@@ -2,7 +2,7 @@
     "name": "@appzic/astro-reset-css",
     "version": "1.0.3",
     "description": "Astro Component for CSS reset like tailwind base",
-    "main": "index.js",
+    "main": "index.ts",
     "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
