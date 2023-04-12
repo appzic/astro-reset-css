@@ -12,7 +12,7 @@ npm install @appzic/astro-reset-css
 
 ## Usage
 
-To use the `ResetCSS` Astro component in your project, simply add it to the head section of your Layout.astro file.
+To use the `ResetCSS` Astro component in your project, simply add it to the head section of your `Layout.astro` file.
 
 ```astro
 ---
