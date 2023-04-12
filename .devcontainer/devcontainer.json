@@ -1,0 +1,20 @@
+{
+    "name": "layout_css",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "editor.formatOnSave": true,
+                "editor.detectIndentation": false
+            },
+            "extensions": [
+                "christian-kohler.path-intellisense",
+                "yzhang.markdown-all-in-one",
+                "astro-build.astro-vscode"
+            ]
+        }
+    },
+    "postCreateCommand": "npm install"
+}
