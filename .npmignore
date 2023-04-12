@@ -1,0 +1,12 @@
+# ignore everything
+*
+
+# include these:
+!index.js
+!ResetCSS.astro
+!styles.css
+!LICENSE
+!README.md
+
+# exclude hidden files from the includes:
+.*
