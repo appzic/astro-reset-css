@@ -1,13 +1,27 @@
-# Astro RESET CSS
+<h1 align="center">Astro RESET CSS</h1>
+<p align="center">Astro Component for CSS reset like tailwind base</p>
+
+
+<p align="center" style="align: center;">
+    <a href="https://www.npmjs.com/package/@appzic/astro-reset-css">
+        <img alt="npm" src="https://img.shields.io/npm/v/@appzic/astro-reset-css">
+    </a>
+    <a href="https://www.npmjs.com/package/@appzic/astro-reset-css">
+        <img alt="npm" src="https://img.shields.io/npm/dw/@appzic/astro-reset-css">
+    </a>
+    <a href="https://github.com/appzic/astro-reset-css/blob/main/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/appzic/astro-reset-css">
+    </a>
+</p>
+
 
 ## Table of Contents
-- [Astro RESET CSS](#astro-reset-css)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## Introduction
@@ -44,7 +58,7 @@ import ResetCSS from "@appzic/astro-reset-css"
 ```
 
 ## Contributing
-We welcome contributions from the community! Please take a look at our [CONTRIBUTING.md](./CONTRIBUTING.md) file for more information on how to get started. We appreciate all kinds of contributions, from bug reports and feature requests to code contributions and documentation improvements. Thank you for considering contributing to our project!
+We welcome contributions from the community! Please take a look at our [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to get started. We appreciate all kinds of contributions, from bug reports and feature requests to code contributions and documentation improvements. Thank you for considering contributing to our project!
 
 ## License
-**Astro RESET CSS** is licensed under the [MIT](./LICENSE) License.
+**Astro RESET CSS** is licensed under the [MIT](LICENSE) License.
