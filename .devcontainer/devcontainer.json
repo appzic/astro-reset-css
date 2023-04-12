@@ -1,5 +1,5 @@
 {
-    "name": "layout_css",
+    "name": "astro-reset-css-container",
     "build": {
         "dockerfile": "Dockerfile"
     },
