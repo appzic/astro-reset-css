@@ -1,27 +1,28 @@
 {
-  "name": "@appzic/astro-reset-css",
-  "version": "0.0.0",
-  "description": "RESET CSS like tailwind css base for Astro Projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/appzic/astro-reset-css.git"
-  },
-  "keywords": [
-    "astro",
-    "tailwind-css",
-    "reset-css"
-  ],
-  "author": "Yasitha Nadeeshan",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/appzic/astro-reset-css/issues"
-  },
-  "homepage": "https://github.com/appzic/astro-reset-css#readme",
-  "devDependencies": {
-    "@changesets/cli": "^2.26.0"
-  }
+    "name": "@appzic/astro-reset-css",
+    "version": "0.0.0",
+    "description": "RESET CSS like tailwind css base for Astro Projects",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/appzic/astro-reset-css.git"
+    },
+    "keywords": [
+        "astro",
+        "tailwind-css",
+        "reset-css"
+    ],
+    "author": "Yasitha Nadeeshan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/appzic/astro-reset-css/issues"
+    },
+    "homepage": "https://github.com/appzic/astro-reset-css#readme",
+    "devDependencies": {
+        "@changesets/cli": "^2.26.0"
+    }
 }
