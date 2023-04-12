@@ -1,5 +1,11 @@
 # @appzic/astro-reset-css
 
+## 1.0.2
+
+### Patch Changes
+
+- Update README file
+
 ## 1.0.1
 
 ### Patch Changes
