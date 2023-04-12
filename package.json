@@ -1,7 +1,7 @@
 {
     "name": "@appzic/astro-reset-css",
     "version": "0.0.0",
-    "description": "RESET CSS like tailwind css base for Astro Projects",
+    "description": "Astro Component for CSS reset like tailwind base",
     "main": "index.js",
     "type": "module",
     "scripts": {
@@ -12,9 +12,13 @@
         "url": "git+https://github.com/appzic/astro-reset-css.git"
     },
     "keywords": [
+        "css",
         "astro",
+        "reset-css",
+        "tailwindcss",
         "tailwind-css",
-        "reset-css"
+        "astrojs",
+        "astro-component"
     ],
     "author": "Yasitha Nadeeshan",
     "license": "MIT",
