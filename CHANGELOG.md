@@ -1,5 +1,11 @@
 # @appzic/astro-reset-css
 
+## 1.2.0
+
+### Minor Changes
+
+- Add scroll-behavior: smooth;
+
 ## 1.1.0
 
 ### Minor Changes
