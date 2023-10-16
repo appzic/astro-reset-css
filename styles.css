@@ -35,6 +35,7 @@ html {
     /* 4 */
     font-feature-settings: normal;
     /* 5 */
+    scroll-behavior: smooth;
 }
 
 /*
@@ -47,6 +48,7 @@ body {
     /* 1 */
     line-height: inherit;
     /* 2 */
+    scroll-behavior: smooth;
 }
 
 /*
